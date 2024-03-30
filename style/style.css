@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+:root{
+    --cor: green;
+    --fonte: "Rock Salt", cursive;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.sexo{
+    display: flex;
+    background-color: var(--cor);
+    align-items: center;
+    justify-content: space-between;
+    padding : 10px 10px 10px 10px;
+    font-family: var(--fonte);
+    /* 4- top right bot left */
+}
+.cu a{
+    margin: 250px; 
+}
+
+.sexo a{
+    text-decoration: none ;
+}
+#botao{
+    margin-top: 400px;
+    padding: 20px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
