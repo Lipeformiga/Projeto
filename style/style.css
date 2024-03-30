@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
 }
-.sexo{
+.head{
     display: flex;
     background-color: var(--cor);
     align-items: center;
@@ -17,11 +17,11 @@
     font-family: var(--fonte);
     /* 4- top right bot left */
 }
-.cu a{
+.teste a{
     margin: 250px; 
 }
 
-.sexo a{
+.head a{
     text-decoration: none ;
 }
 #botao{
